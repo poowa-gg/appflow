@@ -1,0 +1,6 @@
+{
+  "name": "App Capital",
+  "description": "Instant, non-dilutive working capital for independent app founders against future revenue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
